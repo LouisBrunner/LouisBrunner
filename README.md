@@ -13,7 +13,7 @@ I currently focusing most of my time on:
  * [checks-action](https://github.com/LouisBrunner/checks-action): a GitHub Action used to manipulate the GitHub Checks API directly from your YAML workflow, including adding annotations on files, matching the outcome of the job, etc. According to [GitHub](https://github.com/LouisBrunner/checks-action/network/dependents), this action is used by more than 600 other repositories, including [Electron](https://github.com/electron/electron) or even [NPM](https://github.com/npm/cli).
  * Some various smaller packages like [diff-action](https://github.com/LouisBrunner/diff-action) (GitHub Action to make diffs and publish them as GitHub Checks with automatic regression testing) or [avahi2dns](https://github.com/LouisBrunner/avahi2dns) (a tiny DNS server which can be used to query local mDNS records through Avahi, useful to bridge musl's lack of mDNS support)
 
-In the past, I have contributed to various projects (mostly small fixes):
+Here is some examples of projects I have contributed to in the past (mostly small fixes):
 
  * [three.js](https://github.com/mrdoob/three.js) (JavaScript): contributed a way to import NURBS stored in FBX files and a small improvement to `LineMaterial`
  * [gping](https://github.com/orf/gping) (Python): improved resizing behaviour, including fixing crashes
