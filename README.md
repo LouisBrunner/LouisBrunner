@@ -6,6 +6,14 @@ Since 2015 (after my studies were wrapping up and I had a bit more time on my ha
 
 I have more than a decade of experience through which I learned a very versatile and technology agnostic skillset, having worked with many different languages and stacks (C, C++, Golang, Python, TypeScript, JavaScript, Terraform, Java, etc etc), in various industries (robotics, IoT, web agencies, compilers & development tools, DevOps, consulting and more).
 
+## Top sponsors
+
+[![Calyptia](https://avatars.githubusercontent.com/u/69334719?s=200&v=4)](https://github.com/calyptia)
+
+[**Calyptia**](https://github.com/calyptia) is supporting development for M1 support on [valgrind-macos](https://github.com/LouisBrunner/valgrind-macos), thanks!
+
+## My work
+
 I currently focusing most of my time on: 
 
  * [valgrind-macos](https://github.com/LouisBrunner/valgrind-macos) ![brew](https://img.shields.io/badge/downloads-22k%2Fyear-green): Valgrind's official macOS port is severly outdated so I started maintaining my own fork for simplicity of development. Most of my work focus on resolving breakages linked to new macOS versions but also improving the port as a whole to make Valgrind more useful on macOS. According to [brew analytics](https://formulae.brew.sh/analytics/install/365d/), [valgrind-macos](https://github.com/LouisBrunner/valgrind-macos) gets around 22k downloads per month.
