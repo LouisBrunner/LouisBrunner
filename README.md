@@ -6,12 +6,6 @@ Since 2015 (after my studies were wrapping up and I had a bit more time on my ha
 
 I have more than a decade of experience through which I learned a very versatile and technology agnostic skillset, having worked with many different languages and stacks (C, C++, Golang, Python, TypeScript, JavaScript, Terraform, Java, etc etc), in various industries (robotics, IoT, web agencies, compilers & development tools, DevOps, consulting and more).
 
-## Top sponsors
-
-[![Calyptia](https://avatars.githubusercontent.com/u/69334719?s=200&v=4)](https://github.com/calyptia)
-
-[**Calyptia**](https://github.com/calyptia) is supporting development for M1 support on [valgrind-macos](https://github.com/LouisBrunner/valgrind-macos), thanks!
-
 ## My work
 
 I currently focusing most of my time on: 
@@ -33,4 +27,4 @@ Here is some examples of projects I have contributed to in the past (mostly smal
  * [atom's tree-view](https://github.com/atom/tree-view) (CoffeeScript): improved trash bin handling on Linux
  * [terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0) (Go): fixed a crash when passing `null` in Terraform
  * [swftools](https://github.com/matthiaskramm/swftools) (C): improved support for some fonts
- * [mdn](https://github.com/mdn/content) (Markdown): fixed a typo in a link (😂)
+ * [LIEF](https://github.com/lief-project/LIEF) (Python/C++): improved support for Macho binaries
