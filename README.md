@@ -51,6 +51,7 @@ While they do not see active development at the moment, I also maintain:
 - [kodi-addons](https://github.com/LouisBrunner/kodi-addons):
   a collection of addons for [Kodi (XMBC)](https://kodi.tv/), currently only contains one for [Dropout.tv](https://www.dropout.tv/).
 - [terraform-aws-ses-forwarder](https://github.com/LouisBrunner/terraform-aws-ses-forwarder):
+  [![Terraform Module][aws-ses-terraform-shield]](https://registry.terraform.io/modules/LouisBrunner/ses-forwarder/aws)
   a Terraform module to forward [SES](https://aws.amazon.com/ses/) emails to another email, support regex-based routing.
 - [go-touchbar](https://github.com/LouisBrunner/go-touchbar):
   a macOS Touch Bar library written in Go.
@@ -87,3 +88,4 @@ Here is some examples of projects I have contributed to in the past (mostly smal
 [checks-action-shield]: https://img.shields.io/badge/dynamic/regex?cacheSeconds=86400&logo=githubactions&label=Dependents&color=%232088FF&url=https%3A%2F%2Fgithub.com%2FLouisBrunner%2Fchecks-action%2Fnetwork%2Fdependents%3Fdependent_type%3DREPOSITORY&search=dependent_type%3DREPOSITORY.*%3E%5CW*(%5B%5Cd%2C%5D%2B)%5CW*Repositories&replace=%241&flags=ms
 [diff-action-shield]: https://img.shields.io/badge/dynamic/regex?cacheSeconds=86400&logo=githubactions&label=Dependents&color=%232088FF&url=https%3A%2F%2Fgithub.com%2FLouisBrunner%2Fdiff-action%2Fnetwork%2Fdependents%3Fdependent_type%3DREPOSITORY&search=dependent_type%3DREPOSITORY.*%3E%5CW*(%5B%5Cd%2C%5D%2B)%5CW*Repositories&replace=%241&flags=ms
 [gha-matrix-tester-shield]: https://img.shields.io/website?cacheSeconds=86400&up_message=Up&up_color=%23222222&down_message=Down&down_color=red&logo=githubpages&logoSize=auto&label=Deployment&url=https%3A%2F%2Flouisbrunner.github.io%2Fgha-matrix-tester%2F
+[aws-ses-terraform-shield]: https://img.shields.io/terraform/module/dt/LouisBrunner/ses-forwarder/aws?cacheSeconds=86400&logo=terraform&label=Downloads&color=%23844FBA
