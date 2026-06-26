@@ -50,6 +50,7 @@ While they do not see active development at the moment, I also maintain:
   a tool to test [GitHub Actions matrix](https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/run-job-variations) configs and see what's included and why.
 - [kodi-addons](https://github.com/LouisBrunner/kodi-addons):
   a collection of addons for [Kodi (XMBC)](https://kodi.tv/), currently only contains one for [Dropout.tv](https://www.dropout.tv/).
+- [grui](https://github.com/LouisBrunner/grui): a reactive, declarative UI framework for Godot 4 in Rust. Think Leptos for Godot.
 - [terraform-aws-ses-forwarder](https://github.com/LouisBrunner/terraform-aws-ses-forwarder):
   [![Terraform Module][aws-ses-terraform-shield]](https://registry.terraform.io/modules/LouisBrunner/ses-forwarder/aws)
   a Terraform module to forward [SES](https://aws.amazon.com/ses/) emails to another email, support regex-based routing.
