@@ -9,8 +9,13 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
+permissions: {}
+
 jobs:
-  configs:
-    uses: LouisBrunner/.github/.github/workflows/lint-configs.yml@main
-    with:
-      run-biome: false
+  lint:
+    uses: LouisBrunner/.github/.github/workflows/lint-all.yml@main
+    permissions:
+      actions: read
+      contents: read
+      statuses: write
+      pull-requests: write
