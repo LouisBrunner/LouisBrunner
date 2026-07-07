@@ -26,6 +26,9 @@ Actively developed:
   Built an unofficial SDK while the official Proton Drive CLI was unavailable, migrated to first-party CLI once released, providing native-tier reliability and UX.
 - [ha-addons](https://github.com/LouisBrunner/ha-addons):
   a collection of addons for [Home Assistant](https://www.home-assistant.io/).
+- [mes-pronoms](https://github.com/LouisBrunner/mes-pronoms):
+  [![Website][mes-pronoms-shield]](https://mes-pronoms.lbrunner.net/)
+  a tool to help you describe your (French) pronouns.
 
 Stable and in wide production use:
 
@@ -60,7 +63,7 @@ Cool tools and experiments I made:
   a collection of Go [esbuild](https://esbuild.github.io/) plugins.
 - [grui](https://github.com/LouisBrunner/grui): a reactive, declarative UI framework for Godot 4 in Rust. Think Leptos for Godot.
 - [gha-matrix-tester](https://github.com/LouisBrunner/gha-matrix-tester):
-  [![Website][gha-matrix-tester-shield]](https://louisbrunner.github.io/gha-matrix-tester/)
+  [![Website][gha-matrix-tester-shield]](https://gha-mt.lbrunner.net/)
   a tool to test [GitHub Actions matrix](https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/run-job-variations) configs and see what's included and why.
 - [mem-viz](https://github.com/LouisBrunner/mem-viz):
   a tool to visualize memory layout, mostly focused on macOS and dyld cache.
@@ -93,5 +96,6 @@ Here is some examples of projects I have contributed to in the past (mostly smal
 [avahi2dns-shield]: https://img.shields.io/github/downloads/LouisBrunner/avahi2dns/total?cacheSeconds=86400&logo=github&color=%23181717&label=Downloads%20(All-time)
 [checks-action-shield]: https://img.shields.io/badge/dynamic/regex?cacheSeconds=86400&logo=githubactions&label=Dependents&color=%232088FF&url=https%3A%2F%2Fgithub.com%2FLouisBrunner%2Fchecks-action%2Fnetwork%2Fdependents%3Fdependent_type%3DREPOSITORY&search=dependent_type%3DREPOSITORY.*%3E%5CW*(%5B%5Cd%2C%5D%2B)%5CW*Repositories&replace=%241&flags=ms
 [diff-action-shield]: https://img.shields.io/badge/dynamic/regex?cacheSeconds=86400&logo=githubactions&label=Dependents&color=%232088FF&url=https%3A%2F%2Fgithub.com%2FLouisBrunner%2Fdiff-action%2Fnetwork%2Fdependents%3Fdependent_type%3DREPOSITORY&search=dependent_type%3DREPOSITORY.*%3E%5CW*(%5B%5Cd%2C%5D%2B)%5CW*Repositories&replace=%241&flags=ms
-[gha-matrix-tester-shield]: https://img.shields.io/website?cacheSeconds=86400&up_message=Up&up_color=%23222222&down_message=Down&down_color=red&logo=githubpages&logoSize=auto&label=Deployment&url=https%3A%2F%2Flouisbrunner.github.io%2Fgha-matrix-tester%2F
+[gha-matrix-tester-shield]: https://img.shields.io/website?cacheSeconds=86400&up_message=Up&up_color=%23222222&down_message=Down&down_color=red&logo=githubpages&logoSize=auto&label=Deployment&url=https%3A%2F%2Fgha-mt.lbrunner.net%2F
+[mes-pronoms-shield]: https://img.shields.io/website?cacheSeconds=86400&up_message=Up&up_color=%23222222&down_message=Down&down_color=red&logo=githubpages&logoSize=auto&label=Deployment&url=https%3A%2F%2Fmes-pronoms.lbrunner.net%2F
 [aws-ses-terraform-shield]: https://img.shields.io/terraform/module/dt/LouisBrunner/ses-forwarder/aws?cacheSeconds=86400&logo=terraform&label=Downloads&color=%23844FBA
