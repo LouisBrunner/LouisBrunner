@@ -1,4 +1,5 @@
 {
+	"$schema": "https://schemas.lbrunner.net/textlint/config.schema.json",
 	"rules": {
 		"terminology": {
 			"exclude": ["web[- ]?site(s)?"]
